@@ -34,9 +34,9 @@ class PickerLocalizations extends PickerLocalizationsBase {
   /// Language Values
   static const Map<String, Map<String, Object>> localizedValues = {
     'en': {
-      'cancelText': 'Cancel',
-      'confirmText': 'Confirm',
-      'ampm': ['AM', 'PM'],
+      'cancelText': '取消',
+      'confirmText': '确定',
+      'ampm': ['上午', '下午'],
     },
     'zh': {
       'cancelText': '取消',
